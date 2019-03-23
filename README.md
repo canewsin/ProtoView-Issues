@@ -23,7 +23,7 @@ install npm modules globally
  - Open XD Document For Editing and Draw minimum 2 supported elements in Artboard and Select atleast one.
  - Click Ctrl + Shift + P (or) Menu > Plugins > ProtoView (If Shortcut is reserved by another plugin)
  - Open Adobe XD Console
- - A Cmd is Shown There Eg: 
+ - A Cmd is Shown There Eg: `http-server C:\Users\Me\AppData\Local\Packages\Adobe.CC.XD_adky2gkssdxte\LocalState\plugin_settings\5f7db82a\public`
  - Open cmd prompt and paste copied cmd from console and press enter
  - it gives a ip address Eg: http://192.168.43.1:8080
  - open another cmd propmt window and type `qcode-terminal IP_ADDRESS_HERE`
